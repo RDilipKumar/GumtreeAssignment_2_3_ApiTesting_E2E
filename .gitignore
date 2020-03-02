@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+npm-debug.log
+test/reports/allure-results
+test/reports/errorShots
+test/reports/json-results
+**/**/cucumber-json-results/*
+**/**/cucumber-json-results/reports/*
+**/**/cucumber-json-results/report/*
+**/**/cucumber-json-results/report/assets/*
+**/**/junit/*
+**/**/junitOld/*
+allure-report/
+.vscode/

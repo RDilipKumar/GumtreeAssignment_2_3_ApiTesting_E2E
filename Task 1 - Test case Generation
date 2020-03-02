@@ -1,0 +1,9 @@
+1. Validate text spelling, content and grammar
+2. Validate calculate my age button exist and button text
+3. Enter valid format of age and click on calculate should display correct age.
+4. Enter date greater tan current date should throw error message "Cannot be future date"
+5. Enter invalid date format and mm/dd/yyyy should throw error message "Invalid date format"
+6. Enter day not present in calendar month and validate error message
+7. Enter month greater than 12 and validate error message
+8. Validate textbox accepts only special character.
+9. Verify format of the text with spacing.

@@ -1,0 +1,4 @@
+#File containg environment details
+local:
+  url: 'http://www.google.com'
+  
