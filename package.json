@@ -43,7 +43,7 @@
     "axe-core": "^3.1.2",
     "axe-reports": "^1.1.8",
     "axe-webdriverio": "^0.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bunyan": "^1.8.12",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
