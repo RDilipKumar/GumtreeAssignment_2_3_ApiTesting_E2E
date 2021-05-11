@@ -52,7 +52,7 @@
     "cucumber": "^5.0.2",
     "graceful-fs": "^4.1.4",
     "js-yaml": "^3.12.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "merge-yaml": "^1.0.0",
     "wdio-allure-reporter": "^0.8.3",
     "wdio-json-reporter": "^0.4.0",
